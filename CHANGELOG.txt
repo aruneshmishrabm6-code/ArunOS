@@ -1,0 +1,60 @@
+ARUNOS VERSION HISTORY
+======================
+
+v0.3
+----
+- Initial working ArunOS milestone
+- Working ELF and ISO preserved
+
+v0.4
+----
+- Boot testing
+- Kernel test builds
+- Terminal scrolling development
+- Working scrolling build preserved
+
+v0.5
+----
+- v0.5 working ELF and ISO preserved
+
+v0.6
+----
+- v0.6 working ELF and ISO preserved
+- Pre-ATA filesystem state preserved
+
+v0.7
+----
+- ATA storage layer
+- Disk read development
+- LBA disk read
+- Disk write development
+- Multiple working disk milestones preserved
+
+v0.8
+----
+- Disk layer development
+- Disk test
+- Filesystem + disk integration
+- Persistent filesystem development
+- Terminal scrolling
+- clear
+- pwd
+- cd
+- cd ..
+- Absolute paths
+- Nested directories
+- ls
+- mkdir
+- touch
+- cat
+- write
+- rm
+- rmdir
+- Current directory path display
+
+CURRENT STATUS
+--------------
+Current project: ArunOS v0.8
+Architecture: x86_64
+Development environment: WSL Ubuntu + QEMU
+
